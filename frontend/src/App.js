@@ -65,7 +65,7 @@ function App() {
               <i className="fa fa-bars" />
             </button>
             <Link className="brand" to="/">
-              amazona
+              DECENT
             </Link>
           </div>
           <div>
@@ -83,7 +83,7 @@ function App() {
                 <Link to="#admin">
                   {userInfo.name}{' '}
                   <i
-                    className="fa fa-caret-down	
+                    className="fa fa-caret-down
 "
                   />
                 </Link>
@@ -109,7 +109,7 @@ function App() {
                 <Link to="#seller">
                   Seller{' '}
                   <i
-                    className="fa fa-caret-down	
+                    className="fa fa-caret-down
 "
                   />
                 </Link>
@@ -128,7 +128,7 @@ function App() {
                 <Link to="#seller">
                   Admin{' '}
                   <i
-                    className="fa fa-caret-down	
+                    className="fa fa-caret-down
 "
                   />
                 </Link>
